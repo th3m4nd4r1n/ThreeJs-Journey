@@ -1,0 +1,20 @@
+{
+  "name": "tut3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "3.12",
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  }
+}
